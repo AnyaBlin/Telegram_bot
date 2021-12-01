@@ -1,6 +1,5 @@
 package blin.ann;
 
-import blin.ann.TestBase;
 import com.codeborne.selenide.Condition;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
